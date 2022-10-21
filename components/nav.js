@@ -82,15 +82,6 @@ export default function Nav() {
 				<div className='relative flex items-center justify-between h-16'>
 					<div className='hidden md:block'>
 						<div className='absolute inset-y-0 right-0 flex items-center pr-2'>
-							<a
-								href='https://docs.passport.gitcoin.co/gitcoin-passport-sdk/getting-started'
-								target='_blank'
-								rel='noopener noreferrer'
-								className='bg-gray-600 flex text-sm rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white p-2 text-gray-400 hover:text-yellow-500'
-							>
-								<img src={'DocIcon.svg'} alt='Docs Icon' />
-							</a>
-
 							{/* Passport Verified */}
 							<div className='ml-3 relative '>
 								<a
