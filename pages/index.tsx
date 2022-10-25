@@ -41,14 +41,14 @@ const Home: NextPage = () => {
 					</a>
 
 					<a
-						href='https://github.com/gitcoinco/passport-sdk/tree/main/examples'
+						href='https://github.com/farque65/gitcoin-passport-rainbowkit-starter'
 						target='_blank'
 						rel='noopener noreferrer'
 						className='mt-6 w-96 rounded-xl border p-6 text-left hover:text-green-600 focus:text-green-600'
 					>
-						<h3 className='text-2xl font-bold'>Examples &rarr;</h3>
+						<h3 className='text-2xl font-bold'>Example &rarr;</h3>
 						<p className='mt-4 text-xl'>
-							Discover and deploy boilerplate example Passport-SDK projects.
+							Discover and deploy boilerplate example.
 						</p>
 					</a>
 				</div>
